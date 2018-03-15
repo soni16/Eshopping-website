@@ -1,0 +1,41 @@
+
+
+body {
+
+	min-height: 300px;
+    width: 100%;
+    overscroll: none;
+}
+
+
+
+
+
+
+.header-middle .container .row {
+{
+    z-index: 5000px;
+    position: fixed;
+    background-color: black;
+     background-color: red ;
+    width: 100%;
+    max-height: 70px; /* height of the navbar */
+}
+.logo pull-left {
+    margin-left: 0px;
+}
+navbar-right {
+    margin-right: 10px;
+}
+
+
+footer {
+	left: 0px;
+    bottom: 0px;
+    width: 100%;
+    /*//background-color: #f8f8f8;*/
+    color: #ffffff;
+    text-align: left;
+    background-color: #292c2f;
+}
+

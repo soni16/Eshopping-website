@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en ng-app">
+<head>
+
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>  
+</head>
+
+<body>
+    <aside class="sidebar-left">
+        <div class="sidebar-links">
+            <a class="link-blue" ui-sref="sports"><i class="fa fa-picture-o"></i>sports</a>
+            <a class="link-red" ui-sref="fashion"><i class="fa fa-heart-o"></i>fashion</a>
+            <a class="link-yellow selected" ui-sref="electronics"><i class="fa fa-keyboard-o"></i>electronics</a>            
+        </div>
+    </aside>
+
+<div class="main-content">        
+  <div class="container mt-4">
+    <div class="row headTopic ">
+          
+              <div class="col-sm-8" class="card-body" ><h4S>FASHION</h4></div>
+              <div class="col-sm-4" class="card-body" ><button type="button">view all</button></div>
+                 
+    
+           
+        </div>
+    <div class="card">      
+       
+        
+        <div class="row homeSlider"> 
+          <div class="owl-carousel owl-theme">
+              <div class="item">
+                  <div class="card">            
+                     <div class="card-header"><img src="/asset/img/cycling11.png" class="card-img-top" align="center"></div>
+                     <div class="card-body "><h3>product name</h3></div>
+                     <div class="card-footer text-center"><h5>price name</h4></div>
+                    
+                  </div>
+              </div>
+              
+               <div class="item">
+                  <div class="card">            
+                     <div class="card-header"><img src="/asset/img/cycling11.png" class="card-img-top" align="center"></div>
+                     <div class="card-body "><h3>product name</h3></div>
+                     <div class="card-footer text-center"><h5>price name</h4></div>
+                    
+                  </div>
+              </div>
+               <div class="item">
+                  <div class="card">            
+                     <div class="card-header"><img src="/asset/img/cycling11.png" class="card-img-top" align="center"></div>
+                     <div class="card-body "><h3>product name</h3></div>
+                     <div class="card-footer text-center"><h5>price name</h4></div>
+                    
+                  </div>
+              </div>
+              <div class="item"><div class="card">
+                    <img src="/asset/img/cycling11.png" class="card-img-top">
+                    <button> bye</button>
+                  </div></div>
+              <div class="item"><div class="card">
+                    <img src="/asset/img/cycling11.png" class="card-img-top">
+                    <button> bye</button>
+                  </div></div>
+              <div class="item"><div class="card">
+                    <img src="/asset/img/cycling11.png" class="card-img-top">
+                    <button> bye</button>
+                  </div></div>
+              <div class="item"><div class="card">
+                    <img src="/asset/img/cycling11.png" class="card-img-top">
+                    <button> bye</button>
+                  </div></div>
+              <div class="item"><div class="card">
+                    <img src="/asset/img/cycling11.png" class="card-img-top">
+                    <button> bye</button>
+                  </div></div>
+              <div class="item"><div class="card">
+                    <img src="/asset/img/cycling11.png" class="card-img-top">
+                    <button> bye</button>
+                  </div></div>
+              <div class="item"><div class="card">
+                    <img src="/asset/img/cycling11.png" class="card-img-top">
+                    <button> bye</button>
+                  </div></div>
+              <div class="item"><div class="card">
+                    <img src="/asset/img/cycling11.png" class="card-img-top">
+                    <button> bye</button>
+                  </div></div>
+                  
+          </div>
+        </div>  
+    </div>
+  </div>
+</div>
+
+
+<script>
+ var owl = $('.owl-carousel');
+owl.owlCarousel({
+    loop:true,
+    nav:true,
+    margin:5,
+    responsive:{
+        300:{
+            items:1
+        },
+        800:{
+            items:3
+        }
+    }
+});
+owl.on('mousewheel', '.owl-stage', function (e) {
+    if (e.deltaY>0) {
+        owl.trigger('next.owl');
+    } else {
+        owl.trigger('prev.owl');
+    }
+    e.preventDefault();
+});  
+
+</script>    
+    
+</body>
+
+</html>

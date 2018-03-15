@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en ng-app">
+<head>
+    <link rel="stylesheet" type="text/css" href="/asset/css/electronics_desc.css">
+    <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">  
+</head>
+
+
+<body>    
+<div class="container-fluid">
+  <div class="row" ng-init="getSelectedProduct()">
+      <div class="row">
+          <div class="col-md-7 ">
+        <div id="carousel-custom" class="carousel slide left_img" data-ride="carousel">
+              <div class="row">
+            <div class="col-md-3">
+                  <ol class="carousel-indicators mCustomScrollbar meartlab">
+                <li data-target="#carousel-custom" data-slide-to="0" class="active"> 
+                  <img  data-image="yellow" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/26903628_1287758011354162_408786852708690876_n.jpg?oh=18898589c338ee69b6e6d281926f938c&oe=5ADFDF14" alt="" />
+                   <img class="current" data-image="white" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/20882922_1191283414334956_81049157947784454_n.jpg?oh=4e890f9fba08ac2a3cc27246388f26b4&oe=5B161A6B" alt="" /> <img  data-image="black" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/25507926_1262786377184659_683581835207662055_n.jpg?oh=0536c0582f45e4893bf126ccdc70c485&oe=5AE1247D" alt="" /> </li>
+                <li data-target="#carousel-custom" data-slide-to="1"> 
+                  <img data-image="black" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/25442933_1262782193851744_5225388194854897969_n.jpg?oh=92b0a4eb3afe30e9c69a384b52c091ec&oe=5B15173A" alt="" /> 
+                  <img  class="current" data-image="white" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/20953031_1192252997571331_7009270971114957323_n.jpg?oh=c927782ed026b0a22253ccf493607042&oe=5B1A2805" alt="" /> <img data-image="yellow" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/26903908_1287758164687480_4639171229686138684_n.jpg?oh=3e48406aed77b7acc27b6fd834acd40d&oe=5AE51307" alt="" /> 
+                </li>
+                <li data-target="#carousel-custom" data-slide-to="2"> 
+                  <img data-image="black" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/24909605_1257776487685648_5892381250950520683_n.jpg?oh=0e7c70b0e29cc799055deb3ca344d70d&oe=5ADC051B" alt="" />
+                 <img data-image="yellow" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/26992650_1287760278020602_1589789922654686302_n.jpg?oh=3bbc5ab22a5c67f8b2e0432909f82112&oe=5AE723F7" alt="" />
+                  <img  class="current" data-image="white" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/20882922_1191283414334956_81049157947784454_n.jpg?oh=4e890f9fba08ac2a3cc27246388f26b4&oe=5B161A6B" alt="" /> </li>
+              </ol>
+                </div>
+            <div class="col-md-9">
+                  <div class="carousel-outer"> 
+                <!-- me art lab slider -->
+                <div class="carousel-inner ">
+                      <div class="item active">
+                       <img    data-image="yellow" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/26903628_1287758011354162_408786852708690876_n.jpg?oh=18898589c338ee69b6e6d281926f938c&oe=5ADFDF14" alt="" /> 
+                       <img class="current" data-image="white" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/20882922_1191283414334956_81049157947784454_n.jpg?oh=4e890f9fba08ac2a3cc27246388f26b4&oe=5B161A6B" alt="" /> 
+                       <img data-image="black" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/25507926_1262786377184659_683581835207662055_n.jpg?oh=0536c0582f45e4893bf126ccdc70c485&oe=5AE1247D" alt="" /> 
+                     </div>
+                      <div class="item" > 
+                        <img data-image="black" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/25442933_1262782193851744_5225388194854897969_n.jpg?oh=92b0a4eb3afe30e9c69a384b52c091ec&oe=5B15173A" alt="" /> 
+                        <img class="current" data-image="white" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/20953031_1192252997571331_7009270971114957323_n.jpg?oh=c927782ed026b0a22253ccf493607042&oe=5B1A2805" alt="" /> 
+                        <img data-image="yellow" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/26903908_1287758164687480_4639171229686138684_n.jpg?oh=3e48406aed77b7acc27b6fd834acd40d&oe=5AE51307" alt="" /> 
+                      </div>
+                      <div class="item" > 
+                        <img data-image="black" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/24909605_1257776487685648_5892381250950520683_n.jpg?oh=0e7c70b0e29cc799055deb3ca344d70d&oe=5ADC051B" alt="" />
+                         <img class="current" data-image="white" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/20882922_1191283414334956_81049157947784454_n.jpg?oh=4e890f9fba08ac2a3cc27246388f26b4&oe=5B161A6B" alt="" /> 
+                         <img data-image="yellow" src="https://scontent.fdel8-1.fna.fbcdn.net/v/t1.0-9/26992650_1287760278020602_1589789922654686302_n.jpg?oh=3bbc5ab22a5c67f8b2e0432909f82112&oe=5AE723F7" alt="" />
+                      </div>
+                    </div>
+                
+                <!-- sag sol --> 
+                <a class="left carousel-control" href="#carousel-custom" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> </a> <a class="right carousel-control" href="#carousel-custom" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> </a> </div>
+                </div>
+          </div>
+              
+              <!-- thumb --> 
+              
+            </div>
+      </div>
+          <div class="col-md-5">
+        <h3>{{fName}}</h3>
+        <table class="table">
+              <tbody>
+            <tr>
+                  <td><span>Estimated Delivery</span></td>
+                  <td>Nov 31, Wed  -  Dec 5, Sun</td>
+                </tr>
+            <tr>
+                  <td><span>Minimum Order Qty</span></td>
+                  <td>100 Units </td>
+                </tr>
+            <tr>
+                  <td><span>Product Code</span></td>
+                  <td>YUE3061</td>
+                </tr>
+          </tbody>
+            </table>
+        <div class="product-color"> <span>Color</span>
+              <div class="color-choose">
+            <div>
+                  <input data-image="black" type="radio" id="black" name="color" value="black" checked>
+                  <label for="black"><span></span></label>
+                </div>
+            <div>
+                  <input data-image="white" type="radio" id="white" name="color" value="white">
+                  <label for="white"><span></span></label>
+                </div>
+            <div>
+                  <input data-image="yellow" type="radio" id="yellow" name="yellow" value="yellow">
+                  <label for="yellow"><span></span></label>
+                </div>
+          </div>
+            </div>
+        <hr>
+        <div class="row">
+              <div class="col-md-12">
+            <h6><span>Retail Price</span></h6>
+            <h3 class="price">Rs 340.00 /unit</h3>
+            <h4><span>Email ID- : ravi7284007@gmail.com</span></h4>
+          </div>
+            </div>
+        <a href="#0" class="btn btn-cart">ADD TO CART</a> </div>
+        </div>
+  </div>
+</div> 
+<script>
+    $(document).ready(function() {
+
+  $('.color-choose input').on('click', function() {
+      var ravi_color = $(this).attr('data-image');
+
+      $('.current').removeClass('current');
+      $('.left_img img[data-image = ' + ravi_color + ']').addClass('current');
+     $(this).addClass('current');
+  });
+
+}); 
+</script>
+
+</body>
+</html>        
+                
+
+
+        		
+        		
+                     
+

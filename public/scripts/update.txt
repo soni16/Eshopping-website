@@ -1,0 +1,20 @@
+
+// exports.findOneAndUpdate = function(id) {
+//     var response = {
+//         err: null,
+//         result: null
+//     };
+
+//     var defer = Q.defer();
+//     console.log(id);
+
+//     mobile.findOneAndUpdate({ uid: id }, { $set: { name: 'hello kamal' } },{new:true}, function(err, data) {
+//         if (err) {
+//             response.err = err;
+//         } else {
+//             response.result = data;
+//         }
+//         defer.resolve(response);
+//      });
+//     return defer.promise;
+// }

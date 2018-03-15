@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en ng-app">
+<head>
+    <link rel="stylesheet" type="text/css" href="/asset/css/fashion_desc.css">
+    <link rel="stylesheet" media="screen, projection" href="/asset/css/drift-basic.css">
+    <script src="/scripts/Drift.js"></script> 
+  
+</head>
+<body>    
+<div class="container-fluid">
+  <div class="row" ng-init="getSelectedProduct()">
+      <div class="col-sm-6 col-xs-12 col-md-6 col-lg-6" >
+        <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4" >
+          <div class="card">
+          <div class="row smallImages">
+            <div class="col-md-12 col-sm-12 col-xs-12">                  
+                <img src = {{data[0].image[0]}} class="card-img-top" width=70 height=80 ng-click="changeImage(data[0].image[0])"><br>
+                <img src = {{data[0].image[1]}} class="card-img-top" width=70 height=80 ng-click="changeImage(data[0].image[1])"><br>
+                <img src = {{data[0].image[2]}} class="card-img-top" width=70 height=80 ng-click="changeImage(data[0].image[2])">                  
+          </div> 
+          </div>  
+          </div>
+        </div>        
+        <div class="col-sm-8 col-xs-8 col-md-8 col-lg-8" >
+          <div class="row ">
+            
+              <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ">
+                <div class="card text-center">
+                <img  class="drift-demo-trigger" data-zoom={{data[0].image[0]}}  data-zoom={{viewpic}} src = {{data[0].image[0]}} alt="product" ng-src = "{{viewpic}}"> <p><a ng-click="setCartProduct(data[0].id,'mobiles')" class="btn btn-warning btn-lg">
+                <span class="glyphicon glyphicon-shopping-cart "></span> Add to Cart
+                </a>
+                </p>
+              </div>
+            </div>
+          </div>          
+        </div>
+      </div> 
+               
+        <div class="col-sm-6 col-xs-12 col-md-6 col-lg-6">
+          <div class="detail"> 
+              <h2>{{data[0].name}}</h2>
+                <h4 style="color:#00bfff;">&#8377;{{data[0].price}}</h4>
+                  <table style="width:100%" class="table .table-bordered" >
+                    <caption><h3 >Highlights:</h3></caption>
+                    <tr>
+                      <th>Screen</th>
+                      <td>{{data[0].features.screen}}</td>
+                    </tr>
+                    <tr>
+                      <th>Processor</th>
+                      <td>{{data[0].features.processor}}</td>
+                    </tr>
+                    <tr>
+                      <th>Os</th>
+                      <td>{{data[0].features.os}}</td>
+                    </tr>
+                    <tr>
+                      <th>Battery</th>
+                      <td>{{data[0].features.battery}}</td>
+                    </tr>
+                      <tr>
+                      <th>Camera</th>
+                      <td>{{data[0].features.camera}}</td>
+                    </tr>
+                    <tr>
+                      <th>Ram</th>
+                      <td>{{data[0].features.ram}}</td>
+                    </tr>
+                    <tr>
+                      <th>Rom</th>
+                      <td>{{data[0].features.rom}}</td>
+                    </tr>
+                    <tr>
+                      <th>warranty</th>
+                      <td>{{data[0].features.warranty}}</td>
+                    </tr>
+                    <tr>
+                      <th>color</th>
+                      <td>{{data[0].features.color}}</td>
+                    </tr>
+                  </table> 
+            </div> 
+
+
+            <div class="panel panel-success">
+            <div class="panel-heading" data-toggle="collapse" data-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3"><i class="glyphicon glyphicon-triangle-right"></i> REVIEWS</div>
+            <div class="panel-body collapse" id="collapseExample3">
+              <table class="table" ng-repeat="x in data[0].reviews">
+                <tr>
+                  <th>{{x.title}}</th>
+                  <td>{{x.comment}}</td>
+                </tr>
+              </table>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+      
+</body>
+
+</html>        
+                
+
+
+            
+            
+                     
+

@@ -1,0 +1,41 @@
+.container-fluid {
+	margin-bottom: 5%;	 
+	font-family: lato;
+	margin-top: 5px
+},
+h3 {
+	text-decoration: inline;
+	text-decoration-color: black ;
+	
+	
+},
+.smallImages {
+	 margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: red;
+}
+
+.card {
+	display: inline-block;
+	border-style: none;
+    border-width: 13px;
+    border-color: red ;
+	border-width : 3px;
+
+}
+.card img{
+
+
+    display: inline-block;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+},
+.card img:hover{
+  opacity:.800;
+  border-style: outset;
+    border-width: 3px;
+    border-color: #f0f0f0;
+	
+	transition:  0.4s;
+}

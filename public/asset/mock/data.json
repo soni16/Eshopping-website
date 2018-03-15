@@ -1,0 +1,1403 @@
+{
+	"mobiles": [{
+		     "id" : "M1",
+			"name": "Samsung Galaxy On",
+			"brand": "samsung",
+			"image": ["asset/img/samsunggalaxyon1.png", "asset/img/samsunggalaxyon2.png", "asset/img/samsunggalaxyon3.png"],
+			"price": 12900,
+			"features": {
+				"screen": " 5.5 inch Full HD Display",
+				"processor": " Exynos 7870 Octa Core 1.6 GHz Processor",
+				"os": "Android Marshmallow 6",
+				"battery": "4100 mAh Li-Polymer Battery",
+				"camera": "13MP Rear Camera | 8MP Front Camera",
+				"ram": "3 GB RAM",
+				"rom": "64 GB ROM",
+				"warranty": "Brand Warranty of 1 Year",
+				"color": "Gold"
+			},
+			"desc": "The On Nxt is a performance beast, thanks to the powerful 1.6 GHz, octa-core processor that’s aided by an impressive amount of RAM (3 GB). Furthermore, it has 64 GB of internal memory, so you can store loads of photos, videos, apps and more.",
+			"reviews": [{
+					"title": " Decent Performance",
+					"comment": " Decent camera - good in day light - Battery lasts a business day with full 4 G on -Fingerprint scanner works well  "
+				},
+				{
+					"title": " Worth every penny",
+					"comment": "The mobile is good enough for daily uses.. But battery & camera department lacks a little bit."
+				},
+				{
+					"title": " First Impression",
+					"comment": "  So as usual i received the phone within 40hrs, Thanks to Gem-carT. "
+				}
+			]
+		},
+		{
+			"id" : "M2",
+			"name": "Samsung Galaxy J3 Pro",
+			"brand": "samsung",
+			"image": ["asset/img/samsunggalaxyj3pro1.png", "asset/img/samsunggalaxyj3pro2.png", "asset/img/samsunggalaxyj3pro3.png"],
+			"price": 7990,
+			"features": {
+				"screen": "5 inch Display",
+				"processor": "Spreadtrum Quad Core 1.5GHz Processor",
+				"os": " Android Marshmallow 6",
+				"battery": " 2600 mAh Li-ion Battery",
+				"camera": " 8MP Rear Camera | 5MP Front Camera",
+				"ram": " 2 GB RAM",
+				"rom": " 16 GB ROM",
+				"warranty": " Brand Warranty of 1 Year",
+				"color": " Black"
+			},
+			"desc": "Brilliant Display-With the Samsung Galaxy J3 Pro, you will get to enjoy the vivid colours that OLED displays are known for. Enjoy your favourite content on a compact, 12.63-cm (5) Super AMOLED display which makes the phone fit easily in the palm of your hand.",
+			"reviews": [{
+					"title": "  Simply awesome",
+					"comment": " Good looking - But, the delivery agent do not good behaviour with customer to deliver the item. . "
+				},
+				{
+					"title": "  Wonderful",
+					"comment": "Nice display, But battery & camera department lacks a little bit."
+				},
+				{
+					"title": "  Very Good",
+					"comment": " Fabulous handset in this price. Fast, more space, nice amoled display, very good samsung. Slim, stylish. "
+				}
+			]
+		},
+		{
+			"id" : "M3",
+			"name": "Samsung Galaxy J7 Nxt",
+			"brand": "samsung",
+			"image": ["asset/img/samsunggalaxyj7nxt1.png", "asset/img/samsunggalaxyj7nxt2.png", "asset/img/samsunggalaxyj7nxt3.png"],
+			"price": 11990,
+			"features": {
+				"screen": " 5.5 inch HD Display",
+				"processor": "Exynos Octa Core 1.6 GHz Processor",
+				"os": "Android Marshmallow 6",
+				"battery": "3100 mAh Li-ion Battery",
+				"camera": "13MP Rear Camera | 5MP Front Camera",
+				"ram": " 3 GB RAM",
+				"rom": " 32 GB ROM",
+				"warranty": "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+				"color": " Gold"
+			},
+			"desc": "A phone catering to today’s needs, the Samsung Galaxy J7 Nxt is equipped with features like Samsung Pay Mini for a hassle-free digital payment experience. You can click delightful pictures on-the-go with the phone’s 13 MP rear camera and 5 MP front camera. This phone will be a delight for those who love clicking selfies owing to features like the Selfie Focus. This phone has a 3000 mAh battery.",
+			"reviews": [{
+					"title": "Simply awesome",
+					"comment": " Good looking - But, the delivery agent do not good behaviour with customer to deliver the item. . "
+				},
+				{
+					"title": "Wonderful",
+					"comment": "Nice display, But battery & camera department lacks a little bit."
+				},
+				{
+					"title": "Very Good",
+					"comment": " Fabulous handset in this price. Fast, more space, nice amoled display, very good samsung. Slim, stylish. "
+				}
+			]
+		},
+		{
+			"id":"M4",
+			"name": "Samsung Galaxy J7 Pro",
+			"brand": "samsung",
+			"image": ["asset/img/samsungj7pro1.png", "asset/img/samsungj7pro2.png", "asset/img/samsungj7pro3.png"],
+			"price": 19990,
+			"features": {
+				"screen": "5.5 inch HD Display",
+				"processor": "Exynos Octa-Core 1.6GHz Processor",
+				"os": "Android Nougat 7.0",
+				"battery": "3600 mAh Li-ion Battery",
+				"camera": "13MP Rear Camera | 5MP Front Camera",
+				"ram": "3 GB RAM",
+				"rom": "64 GB ROM",
+				"warranty": "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+				"color": "Black"
+			},
+			"desc": "From instant payment to instant sharing on social media, let the Samsung Galaxy J7 Pro simplify your daily tasks. This smartphone features 13 MP front and rear cameras so you can click stunning photos, as well as 64 GB of internal memory and 3 GB of RAM for fast, seamless performance.",
+			"reviews": [{
+					"title": "Wonderful",
+					"comment": "Nice display, But battery & camera department lacks a little bit."
+				},
+				{
+					"title": "Simply awesome",
+					"comment": " Good looking - But, the delivery agent do not good behaviour with customer to deliver the item. . "
+				},
+
+				{
+					"title": "Very Good",
+					"comment": " Fabulous handset in this price. Fast, more space, nice amoled display, very good samsung. Slim, stylish. "
+				}
+			]
+		},
+		{
+			"id" : "M5",
+			"name": "Samsung Galaxy",
+			"brand": "samsung",
+			"image": ["asset/img/samsungonmax1.png", "asset/img/samsungonmax2.png", "asset/img/samsungonmax3.png"],
+			"price": 15990,
+			"features": {
+				"screen": "5.7 inch HD Display",
+				"processor": " MediaTek MTK6757V/WL 2.39GHz, 1.69GHz, Octa Core Processor",
+				"os": "Android Nougat 7.0",
+				"battery": " 3300 mAh Li-ion Battery",
+				"camera": "13MP Rear Camera | 13MP Front Camera",
+				"ram": " 4 GB RAM",
+				"rom": " 32 GB ROM",
+				"warranty": "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+				"color": " Black"
+			},
+			"desc": "From instant payment to instant sharing on social media, let the Samsung Galaxy J7 Pro simplify your daily tasks. This smartphone features 13 MP front and rear cameras so you can click stunning photos, as well as 64 GB of internal memory and 3 GB of RAM for fast, seamless performance.",
+			"reviews": [{
+					"title": "Wonderful",
+					"comment": "Nice display, But battery & camera department lacks a little bit."
+				},
+				{
+					"title": "Very Good",
+					"comment": " Fabulous handset in this price. Fast, more space, nice amoled display, very good samsung. Slim, stylish. "
+				},
+				{
+					"title": "Simply awesome",
+					"comment": " Good looking - But, the delivery agent do not good behaviour with customer to deliver the item. . "
+				}
+			]
+		},
+		{
+			"id" : "M6",
+			"name": "HTC Desire 630",
+			"brand": "htc",
+			"image": ["asset/img/htcdesire6301.png", "asset/img/htcdesire6302.png", "asset/img/htcdesire6303.png"],
+			"price": 9385,
+			"features": {
+				"screen": " 5 inch HD Display",
+				"processor": "Quad Core Processor MSM8928-AC Processor",
+				"os": "Os:- Android Nougat 7.0",
+				"battery": " 2000 mAh Li-ion Battery",
+				"camera": " 8MP Rear Camera | 5MP Front Camera",
+				"ram": " 2 GB RAM",
+				"rom": " 16 GB ROM",
+				"warranty": " Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+				"color": "Sprinkle White"
+			},
+			"desc": "Handset, Battery, AC Adapter, USB Sync Cable, Headset, Safety and Regulatory Guide, Quick Start Guide, Limited Warranty Statement, Customer Care Card",
+			"reviews": [{
+					"title": "Worthless product",
+					"comment": "Don't buy this phone guys ,HTC desire630 is waste of money, I buy before 5 months n this phone is my last htc, Battery sucks without using phone"
+				},
+				{
+					"title": "Awesome phone with clear camera",
+					"comment": " Fabulous handset in this price. Fast, more space, nice amoled display, very good . Slim, stylish. "
+				},
+				{
+					"title": "Wonderful",
+					"comment": " Good looking - But, the delivery agent do not good behaviour with customer to deliver the item. . "
+				}
+			]
+		},
+		{
+			"id" : "M15",
+			"name": "HTC One X9",
+			"brand": "htc",
+			"image": ["asset/img/htconex91.png", "asset/img/htconex92.png", "asset/img/htconex93.png"],
+			"price": 14300,
+			"features": {
+				"screen": "5.5 inch HD Display",
+				"processor": " MediaTek Helio X10 64-bit Octa Core 2.2GHz Processor",
+				"os": "Android Nougat 7.0",
+				"battery": "3000 mAh Li-ion Battery",
+				"camera": " 13MP Rear Camera | 5MP Front Camera",
+				"ram": "3 GB RAM",
+				"rom": " 32 GB ROM",
+				"warranty": " Brand Warranty of 1 Year Available for Mobile",
+				"color": " Carbon Grey"
+			},
+			"desc": "Anti-shake Lens, 1.12 micrometre Pixels, Auto Focus, BSI Sensor, Optical Image Stabilisation (OIS), f/2.0 Aperture and 27.9 mm Focal Length (74.8 Degree Wide Angle), Face Detection, Volume Button as Shutter Button, Volume Button to Zoom, Pro Mode with Manual Controls and RAW Format, HDR Mode, Panorama Mode ",
+			"reviews": [{
+					"title": "terrible",
+					"comment": "Don't buy this phone guys ,HTC desire630 is waste of money, I buy before 5 months n this phone is my last htc, Battery sucks without using phone"
+				},
+				{
+					"title": "Wonderful",
+					"comment": " Good looking - But, the delivery agent do not good behaviour with customer to deliver the item. . "
+				},
+				{
+					"title": "Terrific",
+					"comment": " Fabulous handset in this price. Fast, more space, nice amoled display, very good . Slim, stylish. "
+				}
+			]
+		},
+		{
+			"id" : "M7",
+			"name": "HTC U11",
+			"brand": "htc",
+			"image": ["asset/img/htc-u11Front.png", "asset/img/htc-u11Back.png", "asset/img/htc-u11Side.png"],
+			"price": 45999,
+			"features": {
+				"screen": "5.5 inch Quad HD Display",
+				"processor": " Qualcomm Snapdragon 835 64-bit Processor",
+				"os": "Android 8.0 (Oreo)",
+				"battery": " 3000 mAH Battery",
+				"camera": "12MP Rear Camera|16MP Front Camera",
+				"ram": " 6 GB RAM ",
+				"rom": "128 GB ROM",
+				"warranty": "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+				"color": "Solar red"
+			},
+
+
+			"desc": "The HTC U11 doesn't just stop at offering a new age of phone interaction with Edge Sense; it offers much more than that. With an impressive 3D liquid glass surface, a spectacular camera, and stellar audio all packed in a water-resistant package, the HTC U11 is a smartphone that will take your mobile experience to the next level.",
+			"reviews": [{
+					"title": "Ahmad",
+					"comment": "I was using this phone since 3 weeks. The phone is perfect and the battery is lasting three days"
+				},
+				{
+					"title": "Sansa",
+					"comment": "amazing phone very nice to use best in class all aspects"
+				}, {
+					"title": "Jessica",
+					"comment": "MY FIRST HTC PHONE and EXPERIENCE IS JUST AMAZING AFTER OWNING SAMSUNG AND IPHONE , IPHONE IS IN DIFFERENT LEAGUE BUT FOR ANDROID ECOSYSTEM .THIS IS THE PHONE .SMOOTH NO BLOATWARE CAMERA IS AWESOME. NO HEATING ISSUES .AMAZING BUY JUST GO FOR IT."
+				}
+			]
+		},
+		{
+			"id" : "M8",
+			"name": "Samsung s7 Edge",
+			"brand": "samsung ",
+			"image": ["asset/img/samsung-s7-edgeFront.png", "asset/img/samsung-s7-edgeBack.png", "asset/img/samsung-s7-edgeSide.png"],
+			"price": 46170,
+			"features": {
+				"screen": "5.5 inch Display",
+				"processor": " Octa Core",
+				"os": " Android Marshmallow 6.0",
+				"battery": " Non-removable Li-Ion 3600 mAh battery",
+				"camera": "12MP Rear Camera",
+				"ram": " 4GB RAM",
+				"rom": "up to 256 GB (uses SIM 2 slot)",
+				"warranty": "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box ",
+				"color": "black pearl"
+			},
+
+			"desc": "Android v6 Marshmallow operating system with 2.3GHz + 1.6GHz Exynos 8890 octa core processor, 4GB RAM, 128GB internal memory expandable up to 200GB and dual SIM dual-standby.",
+			"reviews": [{
+					"title": "Hardy",
+					"comment": "The Motion Eye camera still doesn't have much effort to beat my S7 edge after Oreo update. Remains weird on lowlight."
+				},
+				{
+					"title": "Rick Ajmeri",
+					"comment": "Bye bye Iphone n welcome the gorgeous Sam7Edge...love this phone n nobody can beat this gadget..."
+				},
+				{
+					"title": "Prashanth",
+					"comment": "It's a beautiful and powerful phone."
+				}
+			]
+		},
+		{
+			"id" : "M9",
+			"name": "Samsung Note 8 ",
+			"brand": "samsung ",
+			"image": ["asset/img/samsung-galaxy-noteFront.png", "asset/img/samsung-galaxy-noteBack.png", "asset/img/samsung-galaxy-noteSide.png"],
+			"price": 67300,
+			"features": {
+				"screen": "6.3 inch Display",
+				"processor": " Octa Core",
+				"os": "Android Nougat 7.1.1",
+				"battery": "3300 mAh",
+				"camera": "12MPDual Camera Lens,Primary & Secondary Camera",
+				"ram": "6 GB RAM",
+				"rom": "64 GB ROM",
+				"warranty": " 1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-box Accessories Including Batteries from the Date of Purchase.",
+				"color": " Maple Gold"
+			},
+
+			"desc": "Samsung Galaxy Note 8 is an Android Smartphone Designed, Developed and Marketed by Samsung Electronics",
+			"reviews": [{
+					"title": "Adrian",
+					"comment": "I agree with the quick updates, that is absolutely a good thing. My iPhone 6 gets updates as soon as they are ready."
+				},
+				{
+					"title": "Rocky",
+					"comment": "I received a book instead of a Mobile....need justice in my case ."
+				},
+				{
+					"title": "David Ross",
+					"comment": "Fabulous handset in this price. Fast, more space, nice amoled display, very good . Slim, stylish."
+				}
+			]
+		},
+		{
+			"id" : "M10",
+			"name": "Apple iPhone 8 Plus ",
+			"brand": "apple",
+			"image": ["asset/img/apple-iphone-8-plusFront.png", "asset/img/apple-iphone-8-plusBack.png", "asset/img/apple-iphone-8-plusSide.png"],
+			"price": 65999,
+			"features": {
+				"screen": " 5.5 inch",
+				"processor": " A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor",
+				"os": "iOS iOS 11",
+				"battery": " lithium-ion Battery",
+				"camera": " 12MP + 12MP Dual Rear Camera | 7MP Front Camera",
+				"ram": " 3GB RAM",
+				"rom": " 64 GB ROM ",
+				"warranty": " Brand Warranty of 1 Year",
+				"color": "Space Grey"
+			},
+
+			"desc": "An all-new glass design, an updated camera, and a powerful chip, there’s so much to love about the iPhone 8 Plus. This iPhone brings you an augmented reality experience that’s more immersive than before. What’s more? You can charge your iPhone wirelessly!",
+			"reviews": [{
+					"title": "Bobby",
+					"comment": "still no problem on battery my only complaint is memory and some apps in the store doesn't support"
+				},
+				{
+					"title": "Nitin Sharma",
+					"comment": "Camera is a little better and you notice it for sure. It is a lot better in low lights conditions."
+				},
+				{
+					"title": "Pradeep Somnath",
+					"comment": " Phone looks very great.... excellent to use... iphone makes their brand.... ya it is almost equal to iphone 7 plus with some upgradations"
+				}
+			]
+		},
+		{
+			"id" :"M11",
+			"name": "Apple iPhone 6",
+			"brand": " apple ",
+			"image": ["asset/img/apple-iphone-6Front.png", "asset/img/apple-iphone-6Back.png", "asset/img/apple-iphone-6Side.png"],
+			"price": 25699,
+			"features": {
+				"screen": " 4.7 inch Retina HD Display",
+				"processor": "A8 Chip with 64-bit Architecture and M8 Motion Co-processor",
+				"os": "iOS 9",
+				"battery": " Li-Ion",
+				"camera": "8MP Rear Camera | 1.2MP Front Camera",
+				"ram": "3GB RAM",
+				"rom": "32 GB ROM ",
+				"warranty": "Brand Warranty of 1 Year",
+				"color": "Gold"
+			},
+
+			"desc": "Apple iPhone 6 Plus smartphone was launched in September 2014. The phone comes with a 5.50-inch touchscreen display with a resolution of 1080 pixels by 1920 pixels at a PPI of 401 pixels per inch",
+			"reviews": [{
+					"title": "Priyank Dadiyal",
+					"comment": "Unhappy with performance of 32 GB phone. Screen is dull compared to other iPhone 6 and also have wifi connectivity Neither Flipkart nor seller supports exchange even within defined time."
+				},
+				{
+					"titlet": "Vipin Saklani",
+					"comment": "Flipkart Sale a damage product fast time with me on six year i am not again purchase in flipkart chor ho gya flipkart"
+				},
+				{
+					"title": "Shanky Parmar",
+					"comment": "Phone is heating too much while talking. please don't go to Flipkart never for this product."
+				}
+			]
+		},
+		{
+			"id" :"M12",
+			"name": "HTC U ULtra ",
+			"brand": " htc",
+			"image": ["asset/img/htc-u-ultraFront.png", "asset/img/htc-u-ultraBack.png", "asset/img/htc-u-ultraSide.png"],
+			"price": 29990,
+			"features": {
+				"screen": "5.7 inch Display",
+				"processor": " Quad Core",
+				"os": "Android Nougat 7",
+				"battery": "3000 mAh Battery",
+				"camera": " 12MP Rear Camera | 16MP Front Camera",
+				"ram": " 4 GB RAM",
+				"rom": " 64 GB ROM",
+				"warranty": "1 Year Manufacturer Warranty",
+				"color": "Sapphire Blue"
+			},
+
+			"desc": "Processor Type : Qualcomm Snapdragon 821 64-bit, 2.15 Ghz , Primary Camera Features: UltraPixel 2 with 1.55micrometer Pixel, PDAF + Laser Focus, BSI Sensor, Optical Image Stabilization ",
+			"reviews": [{
+					"title": "Nagaraj Naik",
+					"comment": "Nice product"
+				},
+				{
+					"title": "K.M Suresh",
+					"comment": "Best Smartphone From HTC.Ultra Smooth No heating,NoLagging,Screendisplay ,amazing,Camera perfect"
+				},
+				{
+					"title": "Devraj Maluk",
+					"comment": "Good phone.value for money"
+				}
+			]
+
+		},
+
+		{
+			"id" :"M13",
+			"name": "HTC One 802d",
+			"brand": "htc ",
+			"image": ["asset/img/htc-one-originalFront.png", "asset/img/htc-one-originalBack.png", "asset/img/htc-one-originalSide.png"],
+			"price": 35499,
+			"features": {
+				"screen": "4.7 inch Full HD Display",
+				"processor": " Qualcomm Snapdragan 600 Processor",
+				"os": "Android Jelly Bean",
+				"battery": "2300 mAh",
+				"camera": " 2.1MP Front Camera",
+				"ram": " 2GB",
+				"rom": "32 GB",
+				"warranty": "1 Year for Mobile & 6 Months for Accessories",
+				"color": " Silver"
+			},
+
+			"desc": "Beauty need not just be in the eyes of the beholder with the HTC One that seamlessly blends timeless class with post-modern functionality to present a phone will reshape your smartphone experience.",
+			"reviews": [{
+					"title": "Aditya Agarwal",
+					"comment": "Two times defective handset, kudos! WS Retailers 30 day return policy"
+				},
+				{
+					"title": "Yashwant Singh",
+					"comment": "please be careful while ordering the model, check the model number - details in the review below"
+				},
+				{
+					"title": "Praveen Nayar",
+					"comment": "Bad experience with this purchase - HTC one dual sim Silver"
+				}
+			]
+		},
+		{
+			"id" : "M14",
+			"name": "Samsung Galaxy A9 Pro",
+			"brand": " samsung",
+			"image": ["asset/img/samsung-galaxy-a9Front.png", "asset/img/samsung-galaxy-a9Back.png", "asset/img/samsung-galaxy-a9Side.png"],
+			"price": 25999,
+			"features": {
+				"screen": "6 inch Full HD Display",
+				"processor": "Qualcomm Snapdragon 652 Octa Core 1.8GHz Processor",
+				"os": "Android Marshmallow 6",
+				"battery": " 5000 mAh Li-Ion Battery",
+				"camera": " 16MP Rear Camera | 8MP Front Camera",
+				"ram": " 4 GB RAM",
+				"rom": " 32 GB ROM",
+				"warranty": " Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+				"color": " White"
+			},
+
+			"desc": "The flaunt-worthy Samsung Galaxy A9 Pro offers glitch-free performance along with a long battery life.",
+			"reviews": [{
+					"title": "Mustansir",
+					"comment": "It feels like a premium phone altogether, its not too heavy for 210gms"
+				},
+				{
+					"title": "Suman Gupta",
+					"comment": "It is awesome phone....it has good battery backup...it last for 1.5 days with heavy use..camera quality is superb"
+				},
+				{
+					"title": "Robin Arora",
+					"comment": "Awesome Phone...Best battery backup..."
+				}
+			]
+		}
+
+
+	],
+	"clothings": [{
+			"id": "F1",
+			"name": "Rain & Rainbow",
+			"gender": "female",
+			"brand": "Biba",
+			"price": 1200,
+			"features": {
+				"color": "multiple",
+
+				"fabric": "cotton",
+				"type": "dress",
+				"pattern": "floral print"
+			},
+			"image": ["/asset/img/raindress1.png", "/asset/img/raindress2.png", "/asset/img/raindress3.png"],
+			"reviews": [{
+					"title": "Shruti",
+					"comment": "amazing dress, good quality material"
+				},
+				{
+					"title": "Ritu",
+					"comment": " It fits perfectly fine and true to size . I like to pair it with some gray leggings. "
+				},
+				{
+					"title": "Seema",
+					"comment": "stylish n comfortable !!"
+				}
+			]
+
+
+		},
+
+		{
+			"id": "F2",
+			"name": "Blue Tunic",
+			"gender": "female",
+			"brand": "Vero Moda",
+			"price": 700,
+			"features": {
+				"color": "blue",
+
+
+				"fabric": "crepe",
+				"type": "top",
+				"pattern": "printed"
+			},
+			"image": [
+				"./asset/img/bluetunic1.png",
+				"./asset/img/bluetunic2.png",
+				"./asset/img/bluetunic3.png"
+			],
+			"reviews": [{
+					"title": "Nupur",
+					"comment": "very happy with the service and quality of fabric!"
+				},
+				{
+					"title": "Nita",
+					"comment": "very classy, worth the money"
+				},
+				{
+					"title": "Shirin",
+					"comment": "Great quality and perfect fitting"
+				}
+			]
+
+
+		},
+
+		{
+			"id": "F3",
+			"name": "Long Shrug",
+			"gender": "female",
+			"brand": "Vero Moda",
+			"price": 700,
+			"features": {
+				"color": "pink",
+
+
+				"fabric": "wool",
+				"type": "shrug",
+				"pattern": "plain"
+			},
+			"image": ["./asset/img/shrug1.png", "./asset/img/shrug2.png", "./asset/img/shrug3.png"],
+			"reviews": [{
+					"title": "Annu",
+					"comment": "great quality,perfect fit,nice color.Exactly like the picture.This is what I would call great value purchase "
+				},
+				{
+					"title": "Tina ",
+					"comment": "Absolutely loved this dress!The length was perfect and the material is great.Very chic and fits perfectly"
+				},
+				{
+					"title": "Riya",
+					"comment": "Excellent material and beautiful design,it’ s just like the photos online."
+				}
+			]
+
+
+		},
+
+		{
+			"id": "F4",
+			"name": " Comfy Sweater",
+			"gender": "female",
+			"brand": "Tommy Hilfiger",
+			"price": 800,
+			"features": {
+				"color": "yellow",
+
+
+				"fabric": "wool",
+				"type": "sweater",
+				"pattern": "plain"
+			},
+			"image": ["./asset/img/sweater1.png", "./asset/img/sweater2.png", "./asset/img/sweater3.png"],
+			"reviews": [{
+					"title": "Masha",
+					"comment": "another dashing clothing item added to my collection!"
+				},
+				{
+					"title": "Kanika",
+					"comment": "beautiful sweater,amazing fabric, super comfortable"
+				},
+				{
+					"title": "Mehak",
+					"comment": "I love this sweater it’s one of my favourites. It has a very flattering fit."
+				}
+			]
+
+
+
+		},
+
+		{
+			"id": "F5",
+			"name": "A-Line Kurta",
+			"gender": "female",
+			"brand": "Biba",
+			"price": 1000,
+
+			"features": {
+				"color": "beige",
+
+				"fabric": "cotton",
+				"type": "kurta",
+				"pattern": "printed"
+			},
+			"image": ["./asset/img/kurta1.png", "./asset/img/kurta2.png", "./asset/img/kurta3.png"],
+			"reviews": [{
+					"title": "Radhika",
+					"comment": "perfect fit and great quality."
+				},
+				{
+					"title": "Arshiya ",
+					"comment": "Great addition to wardrobe "
+				},
+				{
+					"title": "Roohie ",
+					"comment": "really love the pattern on this kurta and it is exactly as it looks "
+				}
+			]
+
+
+		},
+
+		{
+			"id": "F6",
+			"name": "Casual Blazer",
+			"gender": "female",
+			"brand": "Tommy Hilfiger",
+			"price": 1200,
+			"features": {
+				"color": "black",
+
+
+				"fabric": "crepe",
+				"type": "blazer",
+				"pattern": "printed"
+			},
+			"image": ["./asset/img/blazer1.png", "./asset/img/blazer2.png", "./asset/img/blazer3.png"],
+			"reviews": [{
+					"title": "Kamal ",
+					"comment": "really love the pattern on this blazer and it is exactly as it looks online "
+				},
+				{
+					"title": "Simran ",
+					"comment": "Cute and casual "
+				},
+				{
+					"title": "Prachi ",
+					"comment": "I love the fitting of this blazer.Thank you for early shipping."
+				}
+			]
+
+
+		},
+
+		{
+			"id": "F7",
+			"name": "Casual Trousers",
+			"gender": "female",
+			"brand": "Tommy Hilfiger",
+			"price": 800,
+
+			"features": {
+				"color": "black",
+
+				"fabric": "cotton",
+				"type": "trousers",
+				"pattern": "plain"
+			},
+			"image": ["./asset/img/trouser1.png", "./asset/img/trouser2.png", "./asset/img/trouser3.png"],
+			"reviews": [{
+					"title": "Aditi",
+					"comment": "chic and classy"
+				},
+				{
+					"title": "Mary",
+					"comment": "looking forward to more colours in the same clothing item. I really like the fitting and design of this product."
+				},
+				{
+					"title": "Surbhi",
+					"comment": "The fabric quality was impressive."
+				}
+			]
+
+
+		},
+
+		{
+			"id": "F8",
+			"name": "Crop Top",
+			"gender": "female",
+			"brand": "Vero Moda",
+			"price": 900,
+			"features": {
+				"color": "pink",
+
+
+				"fabric": "crepe",
+				"type": "top",
+				"pattern": "plain"
+			},
+			"image": ["./asset/img/top1.png ", "./asset/img/top2.png ", "./asset/img/top3.png "],
+			"reviews": [{
+					"title": "Meenu ",
+					"comment": "The fabric quality was superb,I love the design."
+				},
+				{
+					"title": "Ruchi ",
+					"comment": "beautiful color,pretty design "
+				},
+				{
+					"title": "Swati ",
+					"comment": "I really like the ruffles in this top.Thank you for quality service."
+				}
+
+			]
+
+
+		},
+
+
+		{
+			"id": "F9",
+			"name": "men's Neck  Solid Yellow T-Shirt",
+			"gender": "male",
+			"brand": "Louis Philippe",
+			"price": 899,
+			"features": {
+				"color": "Yellow",
+				"fabric": "Cotton",
+				"type": "Half Sleeve",
+				"pattern": "Solid"
+
+			},
+			"image": ["asset/img/lp1_1.png", "asset/img/lp1_2.png", "asset/img/lp1_3.png"],
+			"reviews": [{
+					"title": "Terrific",
+					"comment": "great quality,perfect fit,nice color.Exactly like the picture."
+
+				},
+				{
+					"title": "Fabulous",
+					"comment": "Excellent material it’s just like the photos online."
+
+				},
+				{
+					"title": "Nice",
+					"comment": "perfect fit and great quality."
+
+				}
+			]
+
+		},
+
+		{
+			"id": "F10",
+			"name": " men's Polo printed Neck Blue T-Shirt",
+			"gender": "male",
+			"brand": "Louis Philippe",
+			"price": 1499,
+			"features": {
+				"color": "Blue",
+				"fabric": "Cotton Linen Blend",
+				"type": "Half Sleeve",
+				"pattern": "Printed"
+
+			},
+			"image": ["asset/img/lp2_1.png", "asset/img/lp2_2.png", "asset/img/lp2_3.png"],
+			"reviews": [{
+					"title": "Impressive",
+					"comment": "The fabric quality was impressive."
+
+				},
+				{
+					"title": "Pretty",
+					"comment": "beautiful color,pretty design"
+
+				},
+				{
+					"title": "Nice fit",
+					"comment": "perfect fit and great quality."
+
+				}
+			]
+
+		},
+
+		{
+			"id": "F11",
+			"name": "Striped Men's Polo Neck T-Shirt",
+			"gender": "male",
+			"brand": "Louis Philippe",
+			"price": 899,
+			"features": {
+				"color": "Dark Green With White",
+				"fabric": "Cotton Linen Blend",
+				"type": "Half Sleeve",
+				"pattern": "Striped"
+
+			},
+			"image": ["asset/img/lp3_1.png", "asset/img/lp3_2.png", "asset/img/lp3_3.png"],
+			"reviews": [{
+					"title": "Simply Awesome",
+					"comment": "Good"
+
+				},
+				{
+					"title": "Super!",
+					"comment": "very happy with the service and quality of fabric!"
+				},
+				{
+					"title": "Great",
+					"comment": "Great quality and perfect fitting"
+				}
+			]
+
+		},
+
+		{
+			"id": "F12",
+			"name": "Men's Printed Casual White Shirt",
+			"gender": "male",
+			"brand": "Tommy Hilfiger",
+			"price": 1731,
+			"features": {
+				"color": "White",
+				"fabric": "Cotton",
+				"type": "Full Sleeve",
+				"pattern": "Printed"
+
+			},
+			"image": ["asset/img/th1_1.png", "asset/img/th1_2.png", "asset/img/th1_3.png"],
+			"reviews": [{
+					"title": "Good",
+					"comment": "I love the fitting of this shirt.Thank you for early shipping."
+
+				},
+				{
+					"title": "Great",
+					"comment": "Great quality and perfect fitting"
+				},
+				{
+					"title": "Nice",
+					"comment": "perfect fit and great quality."
+				}
+			]
+
+		},
+
+		{
+			"id": "F13",
+			"name": "Men's Solid Casual Grey Shirt",
+			"gender": "male",
+			"brand": "Tommy Hilfiger",
+			"price": 2159,
+			"features": {
+				"color": "Grey",
+				"fabric": "Cotton",
+				"type": "Full Sleeve",
+				"pattern": "Solid"
+
+			},
+			"image": ["asset/img/th2_1.png", "asset/img/th2_2.png", "asset/img/th2_3.png"],
+			"reviews": [{
+					"title": "Great",
+					"comment": "Great addition to wardrobe"
+
+				},
+				{
+					"title": "Good",
+					"comment": "Good quality and early shipping"
+				},
+				{
+					"title": "Amazing",
+					"comment": "amazing fabric and super comfortable"
+				}
+			]
+
+		},
+
+		{
+			"id": "F14",
+			"name": "Peter England Men's T-Shirt",
+			"gender": "male",
+			"brand": "Peter England",
+			"price": 479,
+			"features": {
+				"color": "Pink With White",
+				"fabric": "Cotton",
+				"type": "Half Sleeve",
+				"pattern": "Striped"
+
+			},
+			"image": ["asset/img/pe1_1.png", "asset/img/pe1_2.png", "asset/img/pe1_3.png"],
+			"reviews": [{
+					"title": "Brilliant",
+					"comment": "Nice Product on price.."
+
+				},
+				{
+					"title": "Awesome",
+					"comment": "Good"
+				},
+				{
+					"title": "Worth every penny",
+					"comment": "Super"
+				}
+			]
+
+		},
+
+		{
+			"id": "F15",
+			"name": "Striped Men's Polo Neck Blue T-Shirt",
+			"gender": "male",
+			"brand": "Peter England",
+			"price": 779,
+			"features": {
+				"color": "Medium Blue With Black",
+				"fabric": "Polyester Modal Blend",
+				"type": "Half Sleeve",
+				"pattern": "Striped"
+
+			},
+			"image": ["asset/img/pe2_1.png", "asset/img/pe2_2.png", "asset/img/pe2_3.png"],
+			"reviews": [{
+					"title": "Good",
+					"comment": "Value for money"
+
+				},
+				{
+					"title": "Excellent",
+					"comment": "Good quality and service"
+				},
+				{
+					"title": "Nice Product",
+					"comment": "comfortable to wear"
+				}
+			]
+
+		},
+
+		{
+			"id": "F16",
+			"name": "Solid Men's Polo Neck Black T-Shirt",
+			"gender": "male",
+			"brand": "Peter England",
+			"price": 999,
+			"features": {
+				"color": "Light Grey With Black",
+				"fabric": "Cotton",
+				"type": "Half Sleeve",
+				"pattern": "Solid"
+
+			},
+			"image": ["asset/img/pe3_1.png", "asset/img/pe3_2.png", "asset/img/pe3_3.png"],
+			"reviews": [{
+					"title": "Worth the money",
+					"comment": "Good quality...."
+
+				},
+				{
+					"title": "Unsatisfactory",
+					"comment": "Devalue for money !"
+				},
+				{
+					"title": "Terrific purchase",
+					"comment": "Very comfortable T shirt , very good service"
+				}
+			]
+
+		}
+	],
+	"sports": [{
+			"id": "s01",
+			"name": "Nivia Storm Football - Size: 5",
+			"brand": "Nivia",
+			"sport":"football",
+			"price": 272,
+			"image": ["/asset/img/football_s01.png", "/asset/img/football_s12.png", "/asset/img/football_s13.png"],
+			"features": [{
+				"Material": "Rubber",
+				"color": "White",
+				"Weight": "420"
+			}],
+			"reviews": [{
+				"title": "Nice",
+				"comment": "This product is awesome"
+			}, {
+				"title": "Rubber will hurt",
+				"comment": "Rubber Moulding will hurt on legs if you dont play with shoes. A bit more bouncy ball. And this line because the review needed min 100 characters"
+			}]
+
+		},
+		{
+			"id": "s02",
+			"name": "Nike FC Barcelona Football ",
+			"brand": "Nike",
+			"sport":"football",
+			"price": 300,
+			"image": ["/asset/img/football_s21.png", "/asset/img/football_s22.png", "/asset/img/football_s23.png"],
+			"features": [{
+				"Material": "Material : Rubber",
+				"color": "blue",
+				"Weight": "420"
+			}],
+			"reviews": [{
+				"title": "Luv it",
+				"comment": "Is it real"
+			}, {
+				"title": "Product as expected",
+				"comment": "Happy 😊"
+			}]
+
+		},
+		{
+			"id": "s03",
+			"name": "SG Optipro Cricket Helmet",
+			"brand": "SG",
+			"sport":"cricket",
+			"price": 979,
+			"image": ["/asset/img/helmet_s31.png", "/asset/img/helmet_s32.png", "/asset/img/helmet_s33.png"],
+			"features": [{
+				"Material": "plastic",
+				"color": "blue"
+			}],
+			"reviews": [{
+				"title": "Pretty good",
+				"comment": "The Product was excellent but one problem was that one bolt was missing. It doesn't create any problem but due to that the product was not complete"
+			}, {
+				"title": "Must buy!",
+				"comment": "Very good product"
+			}]
+
+		},
+		{
+			"id": "s04",
+			"name": "GS cricket  nice helmet black           ",
+			"brand": "GS",
+			"sport":"cricket",
+			"price": 400,
+			"image": ["/asset/img/helmet_s41.png", "/asset/img/helmet_s41.png", "/asset/img/helmet_s41.png"],
+			"features": [{
+				"Material": "plastic",
+				"color": "black"
+			}],
+			"reviews": [{
+				"title": "Four Stars",
+				"comment": "Box quality is not good but the product is very good "
+			}, {
+				"title": "Good Buy",
+				"comment": "Great Value for money...Good Helmet for club professionals., fits properly without the wobble."
+			}]
+
+		},
+		{
+			"id": "s05",
+			"name": "Wilson Advantage XL 4 3/8 Strung",
+			"brand": "Wilson",
+			"sport":"tennis",
+			"price": 1793,
+			"image": ["/asset/img/tennis_s51.png", "/asset/img/tennis_s52.png", "/asset/img/tennis_s53.png"],
+			"features": [{
+				"Material": "aluminium",
+				"color": "black"
+			}],
+			"reviews": [{
+				"title": "Good",
+				"comment": "Good"
+			}, {
+				"title": "Colour mismatch",
+				"comment": "Picture showed green coloured racquet but received red one. It served my purpose but still not happy with this (deliberate) mistake"
+			}]
+
+		},
+		{
+			"id": "s06",
+			"name": "Cosco RADAR TOUR 2.5 Strung  ",
+			"brand": "Cosco",
+			"sport":"tennis",
+			"price": 2729,
+			"image": ["/asset/img/tennis_s61.png", "/asset/img/tennis_s62.png", "/asset/img/tennis_s63.png"],
+			"features": [{
+				"Material": "aluminium",
+				"color": "blue"
+			}],
+			"reviews": [{
+				"title": "Four Stars",
+				"comment": "Box quality is not good but the product is very good "
+			}, {
+				"title": "Good Buy",
+				"comment": "Great Value for money...Good Helmet for club professionals., fits properly without the wobble."
+			}]
+
+		},
+		{
+			"id": "s07",
+			"name": "Prokyde Delta Crown Cricket Ball - Size: 5  ",
+			"brand": "Prokyde",
+			"sport":"cricket",
+			"price": 2300,
+			"image": ["/asset/img/cricket_s71.png", "/asset/img/cricket_s72.png", "/asset/img/cricket_s73.png"],
+			"features": [{
+				"Material": "leather",
+				"color": "red"
+			}],
+			"reviews": [{
+				"title": "Good choice",
+				"comment": "Good Quality"
+			}, {
+				"title": "Awesome",
+				"comment": "Awesome"
+			}]
+		},
+		{
+			"id": "s08",
+			"name": "Nivia Storm Football (assotted) ",
+			"brand": "Nivia",
+			"sport":"football",
+			"price": 272,
+			"image": ["/asset/img/football_s01.png", "/asset/img/football_s12.jpng", "football_s13.jpeg"],
+			"features": [{
+				"Material": "Rubber",
+				"color": "White",
+				"Weight": "420"
+			}],
+			"reviews": [{
+				"title": "Nice",
+				"comment": "This product is awesome"
+			}, {
+				"title": "Rubber will hurt",
+				"comment": "Rubber Moulding will hurt on legs if you dont play with shoes. A bit more bouncy ball. And this line because the review needed min 100 characters"
+			}]
+
+		},
+		{
+			"id": "s09",
+			"name": "Nike FC Barcelona Supporter's Football - Size: 5  (Pack of 1, Blue)",
+			"brand": "Nike",
+			"sport":"football",
+			"price": 300,
+			"image": ["/asset/img/football_s21.png", "/asset/img/football_s22.png", "football_s23.png"],
+			"features": [{
+				"Material": "Rubber",
+				"color": "blue",
+				"Weight": "420"
+			}],
+			"reviews": [{
+				"title": "Luv it",
+				"comment": "Is it real"
+			}, {
+				"title": "Product as expected",
+				"comment": "Happy 😊"
+			}]
+
+		},
+		{
+			"id": "s10",
+			"name": "SG Optipro Cricket Helmet  (Assorted)",
+			"brand": "SG",
+			"sport":"cricket",
+			"price": 979,
+			"image": ["/asset/img/helmet_s31.png", "/asset/img/helmet_s32.png", "/asset/img/helmet_s33.png"],
+			"features": [{
+				"Material": "plastic",
+				"color": "blue"
+			}],
+			"reviews": [{
+				"title": "Pretty good",
+				"comment": "The Product was excellent but one problem was that one bolt was missing. It doesn't create any problem but due to that the product was not complete"
+			}, {
+				"title": "Must buy!",
+				"comment": "Very good product"
+			}]
+
+		},
+		{
+			"id": "s11",
+			"name": "GS helmet black",
+			"brand": "GS",
+			"sport":"cricket",
+			"price": 400,
+			"image": ["/asset/img/helmet_s41.png", "/asset/img/helmet_s41.png", "/helmet_s41.png"],
+			"features": [{
+				"Material": "plastic",
+				"color": "black"
+			}],
+			"reviews": [{
+				"title": "Four Stars",
+				"comment": "Box quality is not good but the product is very good "
+			}, {
+				"title": "Good Buy",
+				"comment": "Great Value for money...Good Helmet for club professionals., fits properly without the wobble."
+			}]
+
+		},
+		{
+			"id": "s12",
+			"name": "Wilson Advantage XL 4 3/8 Strung  (Black, Green, Weight - 290 g)",
+			"brand": "Wilson",
+			"sport":"tennis",
+			"price": 1793,
+			"image": ["/asset/img/tennis_s51.png", "/asset/img/tennis_s52.png", "/asset/img/tennis_s53.png"],
+			"features": [{
+				"Material": "aluminium",
+				"color": "black"
+			}],
+			"reviews": [{
+				"title": "Good",
+				"comment": "Good"
+			}, {
+				"title": "Colour mismatch",
+				"comment": "Picture showed green coloured racquet but received red one. It served my purpose but still not happy with this (deliberate) mistake"
+			}]
+
+		},
+		{
+			"id": "s13",
+			"name": "Cosco RADAR TOUR 2.5 Strung  (Multicolor, Weight - 270)",
+			"brand": "Cosco",
+			"sport":"tennis",
+			"price": 2729,
+			"image": ["/asset/img/tennis_s61.png", "/asset/img/tennis_s62.png", "/asset/img/tennis_s63.png"],
+			"features": [{
+				"Material": "aluminium",
+				"color": "blue"
+			}],
+			"reviews": [{
+				"title": "Four Stars",
+				"comment": "Box quality is not good but the product is very good "
+			}, {
+				"title": "Good Buy",
+				"comment": "Great Value for money...Good Helmet for club professionals., fits properly without the wobble."
+			}]
+
+		},
+		{
+			"id": "s14",
+			"name": "Prokyde Delta Crown Cricket Ball - Size: 5  (Pack of 1, Red)",
+			"brand": "Prokyde",
+			"price": 2300,
+			"image": ["/asset/img/cricket_s71.png", "/asset/img/cricket_s72.png", "/asset/img/cricket_s73.png"],
+			"features": [{
+				"Material": "leather",
+				"color": "red"
+			}],
+			"reviews": [{
+				"title": "Good choice",
+				"comment": "Good Quality"
+			}, {
+				"title": "Awesome",
+				"comment": "Awesome"
+			}]
+		}, 
+
+		{
+			"id": "s16",
+			"name": "Hero Spunky 26 T Single Speed Road Cycle  (Black)",
+			"brand": "hero",
+			"price": 3215,
+			"image": [
+				"/asset/img/cycling21.png",
+				"/asset/img/cycling23.png",
+				"/asset/img/cycling24.png"
+			],
+			"features": {
+				"riderHeight": "2 ft 10 inches-3 ft 8 inches",
+				"idealFor": "Kids",
+				"frameMaterial": "Steel",
+				"brakeType": "V Brake ",
+				"gear": "Single Speed",
+				"tireSize": "26",
+				"frameSize": "18"
+
+			}
+		},
+		{
+			"id": "s17",
+			"name": "Hercules Roadeo Wild Kat 20 T Single Speed BMX Cycle  (White, Pink)",
+			"brand": "Hercules",
+			"price": 3700,
+			"image": [
+				"/asset/img/cycling31.png",
+				"/asset/img/cycling33.png",
+				"/asset/img/cycling34.png"
+			],
+			"features": {
+				"riderHeight": "4ft - 4ft 11 inches",
+				"idealFor": "Kids",
+				"fork": "none ",
+				"frameMaterial": "Steel",
+				"brakeType": "Disc  Brake ",
+				"Gear": "Single Speed",
+				"tireSize": "20 inch",
+				"frameSize": "13 inch"
+
+			},
+			"desc": "Take up cycling and regain your healthy with this Hero Octane Parkour cycle.This aluminium-frame cycle has sturdy fat tyres, V-brakes, a steel handlebar,and an extension stem.",
+			"reviews": [{
+					"title": "Very practical and a sweet ride",
+					"decription": "Loved the simplicity and design of this bike"
+				},
+
+				{
+					"title": "Simply awesome",
+					"description": "Nice economical bicycle"
+
+				},
+
+				{
+
+					"title": "Classy product",
+					"description": "Cycle colour and everything was good but there is one problem.i got the product disassembled.i suggest everyone to buy n worth for money."
+
+				}
+			]
+		},
+
+
+
+		{
+			"id": "s18",
+			"name": "Hercules Frolic 12 T Single Speed Recreation Cycle  (Blue, Yellow)",
+			"type": "hercues",
+			"price": 1513,
+			"image": [
+				"/asset/img/cycling41.png",
+				"/asset/img/cycling42.png",
+				"/asset/img/cycling43.png"
+			],
+			"features": {
+				"riderHeight": "2 ft 10 inches-3 ft 8 inches",
+				"idealFor": "Kids",
+				"fork": "Front ",
+				"frameMaterial": "Steel",
+				"brakeType": "Caliper Brake ",
+				"Gear": "Single Speed",
+				"tireSize": "12 inch",
+				"frameSize": "12 inch"
+
+			},
+			"desc": "Take up cycling and regain your healthy with this Hero Octane Parkour cycle.This aluminium-frame cycle has sturdy fat tyres, V-brakes, a steel handlebar,and an extension stem.",
+			"reviews": [{
+					"title": "goodQualityProduct",
+					"decription": "great"
+				},
+
+				{
+					"title": "Value-for-money",
+					"description": "Good to have this with me"
+
+				},
+
+				{
+
+					"title": "Decent product",
+					"description": "Hi Cycle is looking very nice ,it was delivered also on time as it was scheduled. But reflectors show in wheels were not received. Riding experience is also good .cycle is very light weight. I have enjoyed riding this bicycle."
+
+				}
+
+
+			]
+		}
+
+	]
+
+}

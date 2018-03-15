@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en ng-app">
+<head>
+    <link rel="stylesheet" type="text/css" href="/asset/css/electronics.css">
+    <link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>  
+</head>
+<body>    
+  <div class="container">
+    <div class="row">
+        <div class="col-sm-3">
+          <div class = "panel panel-default">
+            <div class = "panel-heading">
+                <h3>BRANDS</h3>
+            </div>
+          
+            <div class = "panel-body">
+              <lable ng-repeat="list in brands">
+                <h5> <input type="checkbox" ng-model="brand[$index]" ng-true-value="{{list}}" >
+                {{list}}</h5>
+              </lable>         
+            </div>
+          </div>
+          <div class = "panel panel-default">
+            <div class = "panel-heading">
+                <h3>PRICE:</h3>
+            </div>
+          
+            <div class = "panel-body">
+              <rzslider
+              rz-slider-model="slider.min"
+              rz-slider-high="slider.max"
+              rz-slider-options="slider.options">
+            </rzslider>         
+            </div>
+          </div>
+        </div>  
+        <div class="col-sm-9 ">
+           <div class="row  text-center">
+            <div class="panel text-center "> 
+              <div class="card text-left">  
+                <div ng-repeat="x in account3| selectedMobiles:brand | filter:minfilter | filter:maxfilter ">
+                  <div class="col-md-3 col-sm-4 col-xs-6 col-lg-3 card-header " >
+                    <img src = {{x.image[0]}} class="card-img-top" ng-click="setSelectedProduct(x.id) ">
+                    <a ng-click="setSelectedProduct(x.id) "> <h5>{{x.name}}</h5></a>
+                    <h5 >{{x.brand}}</h5>
+                    <h4>&#8377;{{x.price }}</h4>
+                    <h4><button class="btn- btn-btn btn-primary btn-xs" ng-click="setCartProduct(x.id,'mobiles')">Add To Cart</button><h4>
+                  </div>
+                </div>     
+            </div>
+        </div>          
+        </div>
+    </div>
+  </div>
+
+
+   
+</body>
+
+</html>

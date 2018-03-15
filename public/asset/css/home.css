@@ -1,0 +1,85 @@
+
+body {
+
+  background-color: #ffffff;
+  font-family: lato;
+  min-height: 400px;
+
+}
+.panel{
+	margin-top:35px;
+}
+.panel button {
+	text-align: center;
+            font-weight: bold;
+            margin:0 auto;
+            width: 120px;
+            display:inline-block;
+}
+
+.card {
+	position:relative;
+	border: none;
+	margin-right: 35px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.card img{
+
+    display: none;
+    border: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    height:300px;
+    width:100px;
+
+}
+.card img:hover{opacity:.800;
+  transition: .15s;
+  border-style: ridge;
+   border-width: 3px;
+    border-color: #f0f0f0; }
+
+.card-body{
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 17px;
+
+	 }
+.card-footer {
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 17px;
+
+}	 
+
+.card:hover:after{
+	opacity: .9;
+}
+.homeSlider{
+	margin-right: : 0px
+	
+	background-color:  #f5f5f5;
+
+}
+.headTopic{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-right: 55px;
+	text-align: left;
+  
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+
+}
+.item {
+		padding:5px;
+}
+.homeTitle {
+	font-family: "sans-serif";
+	font-size: 25px;
+	font-color: red;
+	
+
+}
+

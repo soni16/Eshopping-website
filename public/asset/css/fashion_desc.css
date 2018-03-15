@@ -1,0 +1,68 @@
+.container-fluid {
+	margin-bottom: 5%;	 
+	font-family: lato;
+	margin-top: 0;
+}
+h3 {
+	text-decoration: inline;
+	text-decoration-color: black ;
+	
+	
+}
+
+.smallImages {
+	 margin-top: 35%;
+    margin-bottom: 5%;
+    margin-right: 3%;
+    
+}
+
+.card { 
+	display: inline-block;
+	border-style: none;
+    border-width: 13px;
+	border-width : 3px;
+
+}
+.card img{
+
+    
+    display: inline-block;
+    margin-top: 15%;
+    margin-bottom: 5%;
+    
+}
+
+.bigImage:hover img {
+    -webkit-transform:scale(1.25); /* Safari and Chrome */
+    -moz-transform:scale(1.25); /* Firefox */
+    -ms-transform:scale(1.25); /* IE 9 */
+    -o-transform:scale(1.25); /* Opera */
+     transform:scale(1.25);
+}
+.smallImages img:hover{
+  opacity:.800;
+  border-style: outset;
+  border-color: blue;
+    border-width: 3px;
+    border-color: #f0f0f0;
+	
+	transition:  0.4s;
+}
+
+h3 {
+	color: grey;
+}
+.demo-trigger {
+  display: inline-block;
+  width: 100%;
+  float: left;
+  overflow: hidden;
+}
+
+.detail {
+  position: relative;
+  width: 100%;
+  margin-left: 5%;
+  float: left;
+}
